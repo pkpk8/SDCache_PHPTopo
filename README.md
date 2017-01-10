@@ -1,5 +1,6 @@
 环境：
 apt-get install apache2
+
 apt-get install php5
 
 目录：
