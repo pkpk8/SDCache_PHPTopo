@@ -5,6 +5,7 @@ apt-get install apache2
 apt-get install php5
 
 目录：
+
 var/www/SDCache
 
 # 效果展示:
